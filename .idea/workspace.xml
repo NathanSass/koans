@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0dfcb47b-b65d-4b90-81d6-4153d9ddbe8a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/lesson1-task1/META-INF/lesson1-task1.kotlin_module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/lesson1-task1/TaskKt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/lesson1-task1/TestStart.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/lesson1-task2/JavaCode.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/lesson1-task2/META-INF/lesson1-task2.kotlin_module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/lesson1-task2/TaskKt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/lesson1-task2/TestFunctions.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/lesson1-task3/META-INF/lesson1-task3.kotlin_module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/lesson1-task3/TaskKt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/lesson1-task3/TestNamedArguments.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/util/EduTestRunner$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/util/EduTestRunner.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/util/META-INF/util.kotlin_module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/util/koans/util/KoansTestUtilKt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/util/koans/util/Mode.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/study_project.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Koanz.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/lesson1.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task1/lesson1-task1.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task1/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task1/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task1/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task10/lesson1-task10.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task10/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task10/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task10/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task11/lesson1-task11.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task11/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task11/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task11/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task12/lesson1-task12.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task12/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task12/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task12/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task13/lesson1-task13.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task13/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task13/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task13/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task2/lesson1-task2.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task2/src/JavaCode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task2/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task2/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task2/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task3/lesson1-task3.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task3/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task3/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task3/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task4/lesson1-task4.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task4/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task4/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task4/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task5/lesson1-task5.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task5/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task5/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task5/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task6/lesson1-task6.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task6/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task6/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task6/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task7/lesson1-task7.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task7/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task7/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task7/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task8/lesson1-task8.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task8/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task8/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task8/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task9/lesson1-task9.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task9/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task9/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task9/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/lesson2.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task1/lesson2-task1.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task1/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task1/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task1/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task2/lesson2-task2.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task2/src/MyDate.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task2/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task2/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task2/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task3/lesson2-task3.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task3/src/MyDate.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task3/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task3/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task3/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task4/lesson2-task4.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task4/src/DateUtil.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task4/src/MyDate.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task4/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task4/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task4/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task5/lesson2-task5.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task5/src/DateUtil.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task5/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task5/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task5/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task6/lesson2-task6.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task6/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task6/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task6/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task7/lesson2-task7.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task7/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task7/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task7/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/lesson3.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task1/lesson3-task1.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task1/src/Shop.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task1/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task1/src/TestShop.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task1/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task1/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task10/lesson3-task10.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task10/src/Shop.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task10/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task10/src/TestShop.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task10/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task10/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task11/lesson3-task11.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task11/src/Shop.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task11/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task11/src/TestShop.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task11/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task11/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task12/lesson3-task12.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task12/src/Shop.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task12/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task12/src/TestShop.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task12/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task12/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task2/lesson3-task2.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task2/src/Shop.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task2/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task2/src/TestShop.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task2/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task2/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task3/lesson3-task3.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task3/src/Shop.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task3/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task3/src/TestShop.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task3/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task3/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task4/lesson3-task4.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task4/src/Shop.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task4/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task4/src/TestShop.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task4/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task4/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task5/lesson3-task5.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task5/src/Shop.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task5/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task5/src/TestShop.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task5/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task5/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task6/lesson3-task6.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task6/src/Shop.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task6/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task6/src/TestShop.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task6/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task6/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task7/lesson3-task7.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task7/src/Shop.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task7/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task7/src/TestShop.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task7/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task7/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task8/lesson3-task8.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task8/src/Shop.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task8/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task8/src/TestShop.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task8/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task8/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task9/lesson3-task9.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task9/src/Shop.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task9/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task9/src/TestShop.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task9/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task9/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/lesson4.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/task1/lesson4-task1.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/task1/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/task1/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/task1/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/task2/lesson4-task2.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/task2/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/task2/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/task2/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/task3/lesson4-task3.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/task3/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/task3/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/task3/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/task4/lesson4-task4.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/task4/src/MyDate.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/task4/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/task4/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/task4/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/lesson5.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/task1/lesson5-task1.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/task1/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/task1/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/task1/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/task2/lesson5-task2.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/task2/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/task2/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/task2/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/task3/lesson5-task3.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/task3/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/task3/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/task3/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/task4/lesson5-task4.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/task4/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/task4/src/data.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/task4/src/demo.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/task4/src/html.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/task4/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/task4/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/task5/lesson5-task5.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/task5/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/task5/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/task5/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/lesson6.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/task1/lesson6-task1.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/task1/src/Task.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/task1/src/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/task1/src/tests.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/lesson1-task1/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/lesson1-task2/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/lesson1-task3/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/util/src/EduTestRunner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/util/src/koansTestUtil.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/util/util.iml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Task.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson1/task1/src/Task.kt">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state relative-caret-position="0">
+              <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson1/task2/src/Task.kt">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state relative-caret-position="195">
+              <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson1/task3/src/Task.kt">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state relative-caret-position="0">
+              <caret line="0" column="89" lean-forward="true" selection-start-line="0" selection-start-column="89" selection-end-line="0" selection-end-column="89" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Standard.kt" pinned="false" current-in-tab="false">
+        <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/kotlin/util/Standard.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_Collections.kt" pinned="false" current-in-tab="false">
+        <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/generated/_Collections.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="2029" column="27" lean-forward="false" selection-start-line="2029" selection-start-column="27" selection-end-line="2029" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JavaCode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson1/task2/src/JavaCode.java">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state relative-caret-position="255">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="EduTestRunner" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lesson1/task1/src/Task.kt" />
+        <option value="$PROJECT_DIR$/lesson1/task2/src/Task.kt" />
+        <option value="$PROJECT_DIR$/lesson1/task3/src/Task.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Koanz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Koanz" />
+              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Koanz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Koanz" />
+              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson1" />
+              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Koanz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Koanz" />
+              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson1" />
+              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task3" />
+              <option name="myItemType" value="com.jetbrains.edu.utils.EduDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Koanz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Koanz" />
+              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson1" />
+              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task2" />
+              <option name="myItemType" value="com.jetbrains.edu.utils.EduDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Koanz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Koanz" />
+              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson1" />
+              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task1" />
+              <option name="myItemType" value="com.jetbrains.edu.utils.EduDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dfcb47b-b65d-4b90-81d6-4153d9ddbe8a" name="Default" comment="" />
+      <created>1495474933215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1495474933215</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14097223" sideWeight="0.49589685" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Course Progress" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14097223" sideWeight="0.5041032" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Task Description" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26666668" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lesson1/task1/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task2/src/JavaCode.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task2/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="195">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/generated/_Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="2029" column="27" lean-forward="false" selection-start-line="2029" selection-start-column="27" selection-end-line="2029" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/kotlin/util/Standard.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task3/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="89" lean-forward="true" selection-start-line="0" selection-start-column="89" selection-end-line="0" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
